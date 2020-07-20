@@ -1,0 +1,76 @@
+.logout{
+float:right;
+margin:10px 0px;
+margin-top: -20px;
+}
+.button1{
+background-color: red;
+border-style: none;
+}
+.button2{
+background-color: green;
+border-style: none;
+}
+.flex-container
+{
+    display: flex;
+    margin-right: 20px;
+}
+td {
+    text-align: center;
+    padding: 10px;
+}
+th {
+    padding:10px;
+}
+.maindiv{
+    
+}
+.docadmin
+{
+width: 7%;
+height: 40%;
+margin-top: 40px;
+margin-left: 10px;
+}
+.doctotlist
+{
+    height: 200px;
+    border: 1px solid grey;
+    margin-top: 10px;
+}
+.doctordetailsp
+{
+    margin-left: 120px;
+    margin-top: -110px;
+    font-weight: 500;
+}
+.verify
+{
+    margin-top: -115px;
+    margin-left: 330px;
+    font-weight: 500;
+}
+.acceptdoc
+{
+    width: 10%;
+    background-color: rgb(71, 162, 248);
+    border-radius: 5px;
+    height: 30px;
+    margin-left: 900px;
+    margin-top: -43px;
+
+}
+.docverify
+{
+    margin-top: -30px;
+}
+.rejectdoc
+{
+    width: 10%;
+    background-color: rgb(71, 162, 248);
+    border-radius: 5px;
+    height: 30px;
+    margin-left: 1030px;
+    margin-top: -43px;
+}

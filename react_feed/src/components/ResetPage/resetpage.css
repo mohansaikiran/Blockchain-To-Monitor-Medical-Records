@@ -1,0 +1,16 @@
+.resetinputs
+{
+    width: 30%;
+}
+.savebutton
+{
+    width: 10%;
+    background-color: rgb(71, 162, 248);
+    border-radius: 5px;
+    height: 30px;
+}
+.resetdiv
+{
+    margin-left: 40px;
+    height: 580px;
+}

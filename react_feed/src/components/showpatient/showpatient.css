@@ -1,0 +1,40 @@
+.back {
+    float: right;
+    margin-right:8%;
+}
+.tabh {
+    font-size: 25px;
+    padding-left: 45px;
+    color: darkblue;
+    text-shadow: 2px 2px lightblue;
+
+}
+.tabd {
+    font-size: 25px;
+    padding-left: 35px;
+    color:  rgb(15, 15, 82);
+    
+
+}
+.showall
+{   
+    width: 80%;
+    border-bottom: 1px solid rgb(13, 17, 80);
+    
+    margin-left: 130px;
+    
+}
+.showbody
+{
+    height: 500px;
+}
+td{
+    width: 280px;
+}
+th{
+    width: 280px;
+}
+.showpathead
+{
+    margin-left: 45%;
+}

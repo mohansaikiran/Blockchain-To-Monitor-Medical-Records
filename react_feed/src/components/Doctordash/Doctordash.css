@@ -1,0 +1,196 @@
+.privatekey1{
+    color: white;
+    background-color: cadetblue;
+    border-radius: -10px;
+    width: 90%;
+    margin-top: 10px;
+    height: 30px;
+}
+h4{
+    font-family: 'Arial';
+}
+.space {
+    margin-top: -35px;
+    color: lightcoral;
+}
+.head {
+    font-weight: 40px ;
+    color: rgb(9, 5, 77);
+    text-align: left;
+    text-shadow: 2px 2px lightblue;
+    font-size: 5px;
+}
+.data {
+    font-weight: 20px;
+    text-align: left;
+    font-size: 25px;
+    color: black;
+}
+h2 {
+    color: rgb(2, 2, 65);
+}
+.welcome1 {
+    margin-bottom: 40px;
+    
+    color: rgb(2, 2, 65);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.jug
+{
+    margin-left: 20%;
+    margin-top: -8%;
+    
+}
+.tab {
+    padding-left: 140px;
+    font-size: 20px;
+    color: black;
+}
+.tab1 {
+    padding-left: 70px;
+    font-size: 20px;
+    color: black;
+}
+.tab2 {
+    padding-left: 160px;
+    font-size: 20px;
+    color: black;
+}
+.appointment {
+    color: white;
+    background-color: rgb(10, 75, 100);
+    width: 80%;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+.tabh {
+    font-size: 25px;
+    padding-left: 15px;
+    color: darkblue;
+    text-shadow: 2px 2px lightblue;
+
+}
+.tabhx {
+    padding-left: 60px;
+    font-size: 20px;
+    color: black;
+
+}
+.tabx {
+    padding-left: 155px;
+    font-size: 20px;
+    color: black;
+}
+.contain {
+    margin-top: 40px;
+}
+.stylep {
+    margin-left: 80px;
+    color: black;
+}
+.doc
+{
+    width: 6%;
+    height: 12%;
+    
+}
+.pat {
+    margin-top: 5px;
+    margin-left: 5px;
+    width: 5%;
+    height: 90%;
+}
+.patname1
+{
+    margin-left: 75px;
+    margin-top: -95px;
+}
+.patdet {
+    margin-top: -10px;
+    margin-left: 75px;
+}
+.reqacc {
+    color: rgb(4, 3, 44);
+    background-color: rgb(71, 162, 248);
+    width: 15%;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 250px;
+    margin-top: -6%;
+}
+.viewrep
+{
+    color: rgb(4, 3, 44);
+    background-color: rgb(71, 162, 248);
+    width: 15%;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 480px;
+    margin-top: -109px;
+}
+.appt {
+    color: rgb(4, 3, 44);
+    background-color: rgb(71, 162, 248);
+    width: 15%;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 250px;
+    margin-top: -7%;
+}
+.card {
+    width: 38%;
+    height: 60%;
+    border: 2px black solid;
+    margin-left: 33%;
+    margin-top: -40px;
+}
+.updiv {
+    height: 100px;
+    background-color: cadetblue;
+    
+    
+}
+.docround {
+    width: 40%;
+    height: 30%;
+    margin-top: -23%;
+}
+.content
+{
+    font-size: 15px;
+}
+.apts
+{
+    border: 1px solid grey;
+    margin-top: 10px;
+    height: 100px;
+}
+.appt1 {
+    color: rgb(4, 3, 44);
+    background-color: rgb(71, 162, 248);
+    width: 15%;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 250px;
+    margin-top: -6%;
+}
+.sunhead
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.rep{
+    width: 25%;
+    height: 40%;
+    margin-left: 60%;
+    margin-top: -30%;
+}
+.pres
+{
+height: 50%;
+margin-left: 18%;
+}
+.tabs
+{
+    color: maroon;
+}

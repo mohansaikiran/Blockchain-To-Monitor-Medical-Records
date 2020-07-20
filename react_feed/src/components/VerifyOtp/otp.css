@@ -1,0 +1,45 @@
+
+.monica2
+{
+    margin-left: 35%;
+    width:30%;
+    margin-top: 100px;
+    border: 1px solid grey;
+    
+    
+}
+.writeemail1
+{
+    width: 80%;
+}
+.btnstyle1 {
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+}
+.para12 {
+    text-align: center;
+}
+.backtohome2
+{
+    margin-top: 20px;
+    margin-right: 160px;
+    float: right;
+    color: white;
+    background-color: rgb(30, 148, 226);
+    width: 10%;
+    height: 30px;
+    border-radius: 10px;
+}
+.login2
+{
+    width: 30%;
+    height: 50%;
+    margin-left: 20%;
+    margin-top: 10%;
+    
+}
+.whole2 {
+    height: 500px;
+
+}

@@ -1,0 +1,24 @@
+.det {
+    margin-left: 150px;
+}
+.det1 {
+    margin-left: 150px;
+    color: rgb(14, 14, 122);
+    
+}
+.appointment1 {
+    color: white;
+    background-color: rgb(10, 75, 100);
+    width: 10%;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 40%;
+    margin-top: 30px;
+}
+.image
+{
+    width: 20%;
+    height: 20%;
+    margin-left: 25%;
+    margin-top: -15%;
+}

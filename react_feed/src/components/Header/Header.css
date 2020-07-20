@@ -1,0 +1,23 @@
+.headcolor
+{
+background-color: rgb(31, 30, 41);
+}
+h1{
+    color: white;
+}
+.nittelogo
+{
+    width: 8%;
+    float: right;
+}
+.title 
+{
+    margin-left: 12%;
+    margin-top: -60px;
+
+}
+.logo 
+{
+    width: 10%;
+    margin-top: 20px;
+}

@@ -1,0 +1,96 @@
+.testimage {
+    width: 40%;
+    border: 1px solid black;
+
+}
+.about
+{
+    width: 40%;
+    float: right;
+    margin-top: -330px;
+    height: 40%;
+    border: black;
+    margin-right: 30px;
+    
+}
+body {
+    background-color: rgb(7, 52, 80);
+}
+.contactus {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.testimage1 {
+    width: 10%;
+    border: 1px solid black;
+
+}
+.contact1 {
+}
+.contact2 {
+
+}
+.loginbutton {
+    float: right;
+    margin-left: 40%;
+    color: white;
+    background-color: rgb(134, 188, 238);
+    width: 10%;
+    height: 30px;
+    border-radius: 2px;
+    
+
+}
+.para1 {
+
+    margin-top: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.about1 {
+    width: 40%;
+    height: 40%;
+    margin-top: -400px;
+    margin-left: 50px;
+}
+.description
+{
+    width: 50%;
+    margin-left: 50px;
+    text-align: left;
+}
+.about2 {
+    width: 25%;
+    height: 35%;
+    float: right;
+    
+}
+.description1
+{
+    width: 50%;
+    margin-left: 50%;
+    margin-top: 130px;
+    
+}
+.para2
+{
+    margin-top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.nmit
+{
+    width: 30%;
+    height: 25%;
+    margin-top: -17%;
+    border: 1px solid black;
+}
+.college
+{
+    width :60%;
+    margin-top: 50px;
+    margin-left: 35%;
+}
+.clgname
+{
+    color: brown;
+}

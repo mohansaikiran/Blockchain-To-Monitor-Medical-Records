@@ -1,0 +1,146 @@
+.welcome {
+    color: rgb(2, 2, 65);
+    margin-left: 20px;
+}
+.logoutclass{
+    float:right;
+    margin-top: -7%;
+    margin-right: 6%;
+    }
+    .flex-container {
+        width: 60%;
+        margin-left: -20px;
+    }
+    .butsearch {
+        color: white;
+        margin-left: 40px;
+        margin-top: -0px;
+        background-color: rgb(50, 118, 206);
+        width: 10%;
+        height: 50px;
+        border-radius: 10px;
+    }
+    .inputbox {
+        margin-left: 40px;
+        width : 30%;
+        height: 40px;
+    }
+    .showpat {
+        margin-left: 37px;
+        margin-top : 20px;
+        
+    }
+    .tabstyle {
+        margin-left: 40px;
+        margin-top: 20px;
+    }
+    button {
+        border-radius: 10px !important;
+        color: white;
+        background-color: cadetblue;
+        width: 120%;
+        height: 20px;
+    }
+    .head {
+        font-weight: 40px ;
+        color: rgb(9, 5, 77);
+        text-align: left;
+        text-shadow: 2px 2px lightblue;
+        font-size: 25px;
+    }
+    .data {
+        font-weight: 20px;
+        text-align: left;
+        font-size: 25px;
+        color: black;
+    }
+    .pdata {
+        color: rgb(9, 5, 77);
+        font-size: 20px;
+        padding-left: 40px;
+    }
+    .headp {
+        font-weight: 40px ;
+        color: rgb(9, 5, 77);
+        text-align: left;
+        text-shadow: 2px 2px lightblue;
+        font-size: 25px;
+        padding-left: 40px;
+    }
+    .headpd {
+        font-weight: 40px ;
+        color: rgb(9, 5, 77);
+        text-align: left;
+        text-shadow: 2px 2px lightblue;
+        font-size: 25px;
+        padding-left: 70px;
+    }
+    .enter {
+        margin-left: 40px;
+    }
+    .welcome1
+    {   
+        margin-left: 40px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;;
+    }
+    .mgmtdiv
+    {
+        width: 90%;
+        border: 1px solid grey;
+        margin-left: 50px;
+        height: 180px;
+    }
+    .patdets1
+    {
+        margin-left: 120px;
+        font-weight: 500;
+        margin-top: -120px;
+    }
+    .patimg
+    {
+        width: 8%;
+        height: 80%;
+        margin-top: 10px;
+    }
+    .mgmtpres1
+    {
+        width: 90%;
+        margin-left: 60px;
+        border: 1px solid grey;
+        margin-top: 10px;
+        height: 110px;
+
+    }
+    .presdet
+    {
+        margin-left: 120px;
+        margin-top : -80px;
+    }
+    .butreqpre
+    {
+    color: rgb(4, 3, 44);
+    background-color: rgb(71, 162, 248);
+    width: 15%;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 750px;
+    margin-top: -6%;
+    }
+    .image1
+    {
+        width: 8%;
+        height: 80%;
+        margin-top: 8px;
+        margin-left: 5px;
+    }
+    .viewpr
+    {
+    color: rgb(4, 3, 44);
+    background-color: rgb(71, 162, 248);
+    width: 15%;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 1000px;
+    margin-top: -9%;
+    }
+    
